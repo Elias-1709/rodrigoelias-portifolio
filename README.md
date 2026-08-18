@@ -1,4 +1,4 @@
-# 👨‍💻 Rodrigo Elias | Análista de Sistemas | Desenvolvedor Web
+# 👨‍💻 Rodrigo Elias | Análista de Sistemas & Desenvolvedor Web
 
 Olá! Eu sou **Rodrigo Elias**.
 
