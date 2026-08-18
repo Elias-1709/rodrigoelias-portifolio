@@ -1,4 +1,4 @@
-# 👨‍💻 Rodrigo Elias | Desenvolvedor Web em Formação
+# 👨‍💻 Rodrigo Elias | Análista de Sistemas | Desenvolvedor Web
 
 Olá! Eu sou **Rodrigo Elias**.
 
