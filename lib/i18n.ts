@@ -295,23 +295,23 @@ export const translations: Record<Language, Content> = {
         link: "https://techconsult25.netlify.app/",
       },
       {
-        name: "Campanha Hub",
+        name: "Electoral Command Center",
         category: "Frontend",
         description:
-          "Plataforma para gerenciamento e acompanhamento de campanhas de marketing com métricas e relatórios visuais.",
+          "Centro de comando digital para campanhas eleitorais, reunindo visão estratégica, monitoramento de desempenho e organização das principais frentes da campanha.",
         challenge:
-          "Equipes de marketing necessitavam centralizar informações de campanhas e visualizar métricas de performance de forma clara e acionável.",
+          "Campanhas eleitorais precisam transformar dados, tarefas e prioridades em uma visão operacional clara para apoiar decisões rápidas e coordenadas.",
         solution:
-          "Desenvolvi uma interface de dashboard com visualização de dados em tempo real, cards de métricas, gráficos interativos e filtros personalizáveis.",
+          "Desenvolvi uma experiência de dashboard focada em operação eleitoral, com navegação objetiva, indicadores visuais e uma interface preparada para acompanhar a campanha em um único lugar.",
         contribution:
-          "Implementei toda a interface de usuário, componentes de visualização de dados e sistema de filtros para análise segmentada.",
+          "Implementei a interface frontend, estruturei a hierarquia visual do painel e priorizei responsividade, clareza de dados e fluidez na navegação.",
         learnings:
-          "Expandi conhecimentos em visualização de dados, design de dashboards e criação de componentes reutilizáveis.",
+          "Aprofundei conhecimentos em design de produtos orientados a dados, organização de dashboards operacionais e construção de interfaces para contextos de alta decisão.",
         impact:
-          "Dashboard intuitivo que permite análise rápida de performance de campanhas e tomada de decisões baseada em dados.",
-        tech: ["HTML5", "CSS3", "JavaScript", "Responsivo", "Data Viz"],
-        highlights: ["Dashboard Interativo", "Métricas Visuais", "Filtros Dinâmicos", "UX Analítico"],
-        link: "https://campanhahub.netlify.app/",
+          "Uma central visual para acompanhar a operação eleitoral com mais clareza, agilidade e foco nas prioridades da campanha.",
+        tech: ["HTML5", "CSS3", "JavaScript", "Responsivo", "Dashboard"],
+        highlights: ["Centro de Comando", "Indicadores Estratégicos", "Visão Operacional", "UX Orientado a Dados"],
+        link: "https://v0-aplicativodecampanha.vercel.app/",
       },
       {
         name: "Lord Perrout Advocacia",
@@ -595,23 +595,23 @@ export const translations: Record<Language, Content> = {
         link: "https://techconsult25.netlify.app/",
       },
       {
-        name: "Campanha Hub",
+        name: "Electoral Command Center",
         category: "Frontend",
         description:
-          "Platform for managing and tracking marketing campaigns with metrics and visual reports.",
+          "Digital command center for electoral campaigns, bringing together strategic visibility, performance monitoring, and organization of the campaign's main fronts.",
         challenge:
-          "Marketing teams needed to centralize campaign information and view performance metrics in a clear and actionable way.",
+          "Electoral campaigns need to turn data, tasks, and priorities into a clear operational view that supports fast, coordinated decisions.",
         solution:
-          "I developed a dashboard interface with real-time data visualization, metric cards, interactive charts, and customizable filters.",
+          "I developed a dashboard experience focused on electoral operations, with objective navigation, visual indicators, and an interface built to monitor the campaign in one place.",
         contribution:
-          "I implemented the entire user interface, data visualization components, and a filter system for segmented analysis.",
+          "I implemented the frontend interface, structured the panel's visual hierarchy, and prioritized responsiveness, data clarity, and smooth navigation.",
         learnings:
-          "I expanded my knowledge of data visualization, dashboard design, and creating reusable components.",
+          "I deepened my knowledge of data-driven product design, operational dashboard organization, and interfaces for high-stakes decision-making contexts.",
         impact:
-          "Intuitive dashboard that enables quick campaign performance analysis and data-driven decision-making.",
-        tech: ["HTML5", "CSS3", "JavaScript", "Responsive", "Data Viz"],
-        highlights: ["Interactive Dashboard", "Visual Metrics", "Dynamic Filters", "Analytical UX"],
-        link: "https://campanhahub.netlify.app/",
+          "A visual hub for following electoral operations with greater clarity, agility, and focus on campaign priorities.",
+        tech: ["HTML5", "CSS3", "JavaScript", "Responsive", "Dashboard"],
+        highlights: ["Command Center", "Strategic Indicators", "Operational View", "Data-Driven UX"],
+        link: "https://v0-aplicativodecampanha.vercel.app/",
       },
       {
         name: "Lord Perrout Law Firm",
@@ -895,23 +895,23 @@ export const translations: Record<Language, Content> = {
         link: "https://techconsult25.netlify.app/",
       },
       {
-        name: "Campanha Hub",
+        name: "Electoral Command Center",
         category: "Frontend",
         description:
-          "Plataforma para la gestión y el seguimiento de campañas de marketing con métricas e informes visuales.",
+          "Centro de comando digital para campañas electorales, que reúne visión estratégica, monitoreo del rendimiento y organización de los principales frentes de campaña.",
         challenge:
-          "Los equipos de marketing necesitaban centralizar la información de las campañas y visualizar las métricas de rendimiento de forma clara y accionable.",
+          "Las campañas electorales necesitan convertir datos, tareas y prioridades en una visión operativa clara para apoyar decisiones rápidas y coordinadas.",
         solution:
-          "Desarrollé una interfaz de panel con visualización de datos en tiempo real, tarjetas de métricas, gráficos interactivos y filtros personalizables.",
+          "Desarrollé una experiencia de dashboard enfocada en la operación electoral, con navegación objetiva, indicadores visuales y una interfaz preparada para acompañar la campaña en un solo lugar.",
         contribution:
-          "Implementé toda la interfaz de usuario, los componentes de visualización de datos y un sistema de filtros para análisis segmentado.",
+          "Implementé la interfaz frontend, estructuré la jerarquía visual del panel y prioricé la responsividad, la claridad de los datos y la fluidez de navegación.",
         learnings:
-          "Amplié conocimientos en visualización de datos, diseño de paneles y creación de componentes reutilizables.",
+          "Profundicé mis conocimientos en diseño de productos orientados a datos, organización de dashboards operativos y creación de interfaces para contextos de alta decisión.",
         impact:
-          "Panel intuitivo que permite un análisis rápido del rendimiento de campañas y la toma de decisiones basada en datos.",
-        tech: ["HTML5", "CSS3", "JavaScript", "Responsivo", "Data Viz"],
-        highlights: ["Panel Interactivo", "Métricas Visuales", "Filtros Dinámicos", "UX Analítico"],
-        link: "https://campanhahub.netlify.app/",
+          "Una central visual para acompañar la operación electoral con más claridad, agilidad y foco en las prioridades de la campaña.",
+        tech: ["HTML5", "CSS3", "JavaScript", "Responsivo", "Dashboard"],
+        highlights: ["Centro de Comando", "Indicadores Estratégicos", "Visión Operativa", "UX Orientado a Datos"],
+        link: "https://v0-aplicativodecampanha.vercel.app/",
       },
       {
         name: "Lord Perrout Abogacía",
