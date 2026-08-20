@@ -309,7 +309,7 @@ export const translations: Record<Language, Content> = {
           "Aprofundei conhecimentos em design de produtos orientados a dados, organização de dashboards operacionais e construção de interfaces para contextos de alta decisão.",
         impact:
           "Uma central visual para acompanhar a operação eleitoral com mais clareza, agilidade e foco nas prioridades da campanha.",
-        tech: ["HTML5", "CSS3", "JavaScript", "Responsivo", "Dashboard"],
+        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Lucide React", "Recharts", "Drizzle ORM", "Better Auth", "PostgreSQL", "Vercel Analytics"],
         highlights: ["Centro de Comando", "Indicadores Estratégicos", "Visão Operacional", "UX Orientado a Dados"],
         link: "https://v0-aplicativodecampanha.vercel.app/",
       },
@@ -609,7 +609,7 @@ export const translations: Record<Language, Content> = {
           "I deepened my knowledge of data-driven product design, operational dashboard organization, and interfaces for high-stakes decision-making contexts.",
         impact:
           "A visual hub for following electoral operations with greater clarity, agility, and focus on campaign priorities.",
-        tech: ["HTML5", "CSS3", "JavaScript", "Responsive", "Dashboard"],
+        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Lucide React", "Recharts", "Drizzle ORM", "Better Auth", "PostgreSQL", "Vercel Analytics"],
         highlights: ["Command Center", "Strategic Indicators", "Operational View", "Data-Driven UX"],
         link: "https://v0-aplicativodecampanha.vercel.app/",
       },
@@ -909,7 +909,7 @@ export const translations: Record<Language, Content> = {
           "Profundicé mis conocimientos en diseño de productos orientados a datos, organización de dashboards operativos y creación de interfaces para contextos de alta decisión.",
         impact:
           "Una central visual para acompañar la operación electoral con más claridad, agilidad y foco en las prioridades de la campaña.",
-        tech: ["HTML5", "CSS3", "JavaScript", "Responsivo", "Dashboard"],
+        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Lucide React", "Recharts", "Drizzle ORM", "Better Auth", "PostgreSQL", "Vercel Analytics"],
         highlights: ["Centro de Comando", "Indicadores Estratégicos", "Visión Operativa", "UX Orientado a Datos"],
         link: "https://v0-aplicativodecampanha.vercel.app/",
       },
