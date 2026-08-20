@@ -233,7 +233,7 @@ export const translations: Record<Language, Content> = {
           "Aprofundei conhecimentos em gestão de estado complexo, implementação de autenticação segura e design de interfaces para múltiplos perfis de usuário.",
         impact:
           "Interface intuitiva que centraliza todas as operações condominiais, reduzindo o tempo de gestão administrativa.",
-        tech: ["HTML5", "CSS3", "JavaScript", "Responsivo", "Autenticação"],
+        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Lucide React"],
         highlights: ["Sistema de Login", "Dashboard Admin", "Gestão de Reservas", "Comunicação Integrada"],
         link: "https://v0-sicon.vercel.app/auth/login",
       },
@@ -252,7 +252,7 @@ export const translations: Record<Language, Content> = {
           "Explorei técnicas de gamificação para engajamento do usuário e melhores práticas de design para conteúdo educacional.",
         impact:
           "Plataforma acessível que facilita a adoção de hábitos sustentáveis através de conteúdo educativo de fácil compreensão.",
-        tech: ["HTML5", "CSS3", "JavaScript", "Responsivo"],
+        tech: ["HTML", "CSS", "JavaScript", "Google Fonts", "Font Awesome"],
         highlights: ["Design Sustentável", "Conteúdo Educativo", "Interface Intuitiva", "Performance Otimizada"],
         link: "https://ecoverde25.netlify.app/",
       },
@@ -271,7 +271,7 @@ export const translations: Record<Language, Content> = {
           "Aperfeiçoei habilidades em arquitetura de informação e criação de interfaces que priorizam a legibilidade e navegação intuitiva.",
         impact:
           "Recurso centralizado que ajuda tutores a cuidar melhor de seus felinos com informações organizadas e acessíveis.",
-        tech: ["HTML5", "CSS3", "JavaScript", "Responsivo"],
+        tech: ["HTML", "CSS", "JavaScript", "Google Fonts", "Font Awesome"],
         highlights: ["UX Focado no Usuário", "Arquitetura de Informação", "Design Acessível", "Navegação Intuitiva"],
         link: "https://felinecare25.netlify.app/",
       },
@@ -290,7 +290,7 @@ export const translations: Record<Language, Content> = {
           "Aprofundei conhecimentos em design de conversão, copywriting para web e técnicas de otimização de landing pages.",
         impact:
           "Presença digital profissional que fortalece a credibilidade da marca e facilita o primeiro contato com potenciais clientes.",
-        tech: ["HTML5", "CSS3", "JavaScript", "Responsivo", "SEO"],
+        tech: ["HTML", "CSS", "JavaScript", "Google Fonts", "Font Awesome"],
         highlights: ["Design Conversivo", "CTAs Estratégicos", "Formulário Integrado", "SEO Otimizado"],
         link: "https://techconsult25.netlify.app/",
       },
@@ -309,7 +309,7 @@ export const translations: Record<Language, Content> = {
           "Aprofundei conhecimentos em design de produtos orientados a dados, organização de dashboards operacionais e construção de interfaces para contextos de alta decisão.",
         impact:
           "Uma central visual para acompanhar a operação eleitoral com mais clareza, agilidade e foco nas prioridades da campanha.",
-        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Lucide React", "Recharts", "Drizzle ORM", "Better Auth", "PostgreSQL", "Vercel Analytics"],
+        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Radix UI", "Lucide React", "Recharts", "React Hook Form", "Zod", "Drizzle ORM", "Better Auth", "PostgreSQL", "Vercel Analytics"],
         highlights: ["Centro de Comando", "Indicadores Estratégicos", "Visão Operacional", "UX Orientado a Dados"],
         link: "https://v0-aplicativodecampanha.vercel.app/",
       },
@@ -327,7 +327,7 @@ export const translations: Record<Language, Content> = {
         learnings: "Consolidei conhecimentos em Next.js, Tailwind CSS e boas práticas de deploy com Vercel.",
         impact:
           "Presença digital premium que eleva a percepção de marca do escritório e facilita o contato de novos clientes.",
-        tech: ["Next.js", "React", "Tailwind CSS", "Vercel", "TypeScript"],
+        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Lucide React"],
         highlights: ["Next.js App Router", "Design Premium", "Performance A+", "Deploy Automatizado"],
         link: "https://v0-lordperrout-advocacia.vercel.app/",
       },
@@ -347,7 +347,7 @@ export const translations: Record<Language, Content> = {
           "Consolidei padrões de internacionalização com múltiplos idiomas, componentização reutilizável e microinterações que elevam a percepção de qualidade.",
         impact:
           "Presença digital profissional da minha própria empresa, que reforça autoridade técnica e serve de vitrine prática das minhas competências como desenvolvedor.",
-        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Vercel"],
+        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Lucide React"],
         highlights: ["Projeto Autoral", "Três Idiomas", "Empresa Própria", "Design Premium"],
         link: "https://eliastechnology.vercel.app/",
       },
@@ -367,7 +367,7 @@ export const translations: Record<Language, Content> = {
           "Experiência prática com cliente internacional real, atendendo necessidades de negócio, estruturação de presença digital e desenvolvimento orientado a objetivos empresariais.",
         impact:
           "Solução publicada e acessível online que evidencia experiência profissional com um cliente dos Estados Unidos e amplia meu posicionamento como desenvolvedor no mercado internacional.",
-        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Vercel"],
+        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Lucide React"],
         highlights: ["Cliente Internacional", "Estados Unidos", "Projeto Profissional", "Design Responsivo"],
         link: "https://dv-premium.vercel.app/",
       },
@@ -533,7 +533,7 @@ export const translations: Record<Language, Content> = {
           "I deepened my knowledge of complex state management, secure authentication implementation, and interface design for multiple user profiles.",
         impact:
           "Intuitive interface that centralizes all condominium operations, reducing administrative management time.",
-        tech: ["HTML5", "CSS3", "JavaScript", "Responsive", "Authentication"],
+        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Lucide React"],
         highlights: ["Login System", "Admin Dashboard", "Booking Management", "Integrated Communication"],
         link: "https://v0-sicon.vercel.app/auth/login",
       },
@@ -552,7 +552,7 @@ export const translations: Record<Language, Content> = {
           "I explored gamification techniques for user engagement and best design practices for educational content.",
         impact:
           "Accessible platform that makes it easier to adopt sustainable habits through easy-to-understand educational content.",
-        tech: ["HTML5", "CSS3", "JavaScript", "Responsive"],
+        tech: ["HTML", "CSS", "JavaScript", "Google Fonts", "Font Awesome"],
         highlights: ["Sustainable Design", "Educational Content", "Intuitive Interface", "Optimized Performance"],
         link: "https://ecoverde25.netlify.app/",
       },
@@ -571,7 +571,7 @@ export const translations: Record<Language, Content> = {
           "I improved my skills in information architecture and creating interfaces that prioritize readability and intuitive navigation.",
         impact:
           "Centralized resource that helps owners better care for their cats with organized and accessible information.",
-        tech: ["HTML5", "CSS3", "JavaScript", "Responsive"],
+        tech: ["HTML", "CSS", "JavaScript", "Google Fonts", "Font Awesome"],
         highlights: ["User-Focused UX", "Information Architecture", "Accessible Design", "Intuitive Navigation"],
         link: "https://felinecare25.netlify.app/",
       },
@@ -590,7 +590,7 @@ export const translations: Record<Language, Content> = {
           "I deepened my knowledge of conversion design, web copywriting, and landing page optimization techniques.",
         impact:
           "Professional digital presence that strengthens brand credibility and facilitates first contact with potential clients.",
-        tech: ["HTML5", "CSS3", "JavaScript", "Responsive", "SEO"],
+        tech: ["HTML", "CSS", "JavaScript", "Google Fonts", "Font Awesome"],
         highlights: ["Conversion Design", "Strategic CTAs", "Integrated Form", "SEO Optimized"],
         link: "https://techconsult25.netlify.app/",
       },
@@ -609,7 +609,7 @@ export const translations: Record<Language, Content> = {
           "I deepened my knowledge of data-driven product design, operational dashboard organization, and interfaces for high-stakes decision-making contexts.",
         impact:
           "A visual hub for following electoral operations with greater clarity, agility, and focus on campaign priorities.",
-        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Lucide React", "Recharts", "Drizzle ORM", "Better Auth", "PostgreSQL", "Vercel Analytics"],
+        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Radix UI", "Lucide React", "Recharts", "React Hook Form", "Zod", "Drizzle ORM", "Better Auth", "PostgreSQL", "Vercel Analytics"],
         highlights: ["Command Center", "Strategic Indicators", "Operational View", "Data-Driven UX"],
         link: "https://v0-aplicativodecampanha.vercel.app/",
       },
@@ -627,7 +627,7 @@ export const translations: Record<Language, Content> = {
         learnings: "I consolidated my knowledge of Next.js, Tailwind CSS, and best deployment practices with Vercel.",
         impact:
           "Premium digital presence that elevates the firm's brand perception and makes it easier for new clients to get in touch.",
-        tech: ["Next.js", "React", "Tailwind CSS", "Vercel", "TypeScript"],
+        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Lucide React"],
         highlights: ["Next.js App Router", "Premium Design", "A+ Performance", "Automated Deploy"],
         link: "https://v0-lordperrout-advocacia.vercel.app/",
       },
@@ -647,7 +647,7 @@ export const translations: Record<Language, Content> = {
           "I consolidated internationalization patterns across multiple languages, reusable componentization, and micro-interactions that raise the perception of quality.",
         impact:
           "A professional digital presence for my own company that reinforces technical authority and serves as a practical showcase of my skills as a developer.",
-        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Vercel"],
+        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Lucide React"],
         highlights: ["Authorial Project", "Three Languages", "Own Company", "Premium Design"],
         link: "https://eliastechnology.vercel.app/",
       },
@@ -667,7 +667,7 @@ export const translations: Record<Language, Content> = {
           "Hands-on experience with a real international client, meeting business needs, structuring digital presence, and goal-oriented development.",
         impact:
           "A published, publicly accessible solution that evidences professional experience with a United States client and strengthens my positioning as a developer in the international market.",
-        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Vercel"],
+        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Lucide React"],
         highlights: ["International Client", "United States", "Professional Project", "Responsive Design"],
         link: "https://dv-premium.vercel.app/",
       },
@@ -833,7 +833,7 @@ export const translations: Record<Language, Content> = {
           "Profundicé conocimientos en gestión de estado complejo, implementación de autenticación segura y diseño de interfaces para múltiples perfiles de usuario.",
         impact:
           "Interfaz intuitiva que centraliza todas las operaciones del condominio, reduciendo el tiempo de gestión administrativa.",
-        tech: ["HTML5", "CSS3", "JavaScript", "Responsivo", "Autenticación"],
+        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Lucide React"],
         highlights: ["Sistema de Login", "Panel Admin", "Gestión de Reservas", "Comunicación Integrada"],
         link: "https://v0-sicon.vercel.app/auth/login",
       },
@@ -852,7 +852,7 @@ export const translations: Record<Language, Content> = {
           "Exploré técnicas de gamificación para el engagement del usuario y mejores prácticas de diseño para contenido educativo.",
         impact:
           "Plataforma accesible que facilita la adopción de hábitos sostenibles a través de contenido educativo fácil de comprender.",
-        tech: ["HTML5", "CSS3", "JavaScript", "Responsivo"],
+        tech: ["HTML", "CSS", "JavaScript", "Google Fonts", "Font Awesome"],
         highlights: ["Diseño Sostenible", "Contenido Educativo", "Interfaz Intuitiva", "Rendimiento Optimizado"],
         link: "https://ecoverde25.netlify.app/",
       },
@@ -871,7 +871,7 @@ export const translations: Record<Language, Content> = {
           "Perfeccioné habilidades en arquitectura de información y creación de interfaces que priorizan la legibilidad y la navegación intuitiva.",
         impact:
           "Recurso centralizado que ayuda a los dueños a cuidar mejor de sus felinos con información organizada y accesible.",
-        tech: ["HTML5", "CSS3", "JavaScript", "Responsivo"],
+        tech: ["HTML", "CSS", "JavaScript", "Google Fonts", "Font Awesome"],
         highlights: ["UX Centrado en el Usuario", "Arquitectura de Información", "Diseño Accesible", "Navegación Intuitiva"],
         link: "https://felinecare25.netlify.app/",
       },
@@ -890,7 +890,7 @@ export const translations: Record<Language, Content> = {
           "Profundicé conocimientos en diseño de conversión, copywriting para web y técnicas de optimización de landing pages.",
         impact:
           "Presencia digital profesional que fortalece la credibilidad de la marca y facilita el primer contacto con clientes potenciales.",
-        tech: ["HTML5", "CSS3", "JavaScript", "Responsivo", "SEO"],
+        tech: ["HTML", "CSS", "JavaScript", "Google Fonts", "Font Awesome"],
         highlights: ["Diseño de Conversión", "CTAs Estratégicos", "Formulario Integrado", "SEO Optimizado"],
         link: "https://techconsult25.netlify.app/",
       },
@@ -909,7 +909,7 @@ export const translations: Record<Language, Content> = {
           "Profundicé mis conocimientos en diseño de productos orientados a datos, organización de dashboards operativos y creación de interfaces para contextos de alta decisión.",
         impact:
           "Una central visual para acompañar la operación electoral con más claridad, agilidad y foco en las prioridades de la campaña.",
-        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Lucide React", "Recharts", "Drizzle ORM", "Better Auth", "PostgreSQL", "Vercel Analytics"],
+        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Radix UI", "Lucide React", "Recharts", "React Hook Form", "Zod", "Drizzle ORM", "Better Auth", "PostgreSQL", "Vercel Analytics"],
         highlights: ["Centro de Comando", "Indicadores Estratégicos", "Visión Operativa", "UX Orientado a Datos"],
         link: "https://v0-aplicativodecampanha.vercel.app/",
       },
@@ -927,7 +927,7 @@ export const translations: Record<Language, Content> = {
         learnings: "Consolidé conocimientos en Next.js, Tailwind CSS y buenas prácticas de despliegue con Vercel.",
         impact:
           "Presencia digital premium que eleva la percepción de marca del bufete y facilita el contacto de nuevos clientes.",
-        tech: ["Next.js", "React", "Tailwind CSS", "Vercel", "TypeScript"],
+        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Lucide React"],
         highlights: ["Next.js App Router", "Diseño Premium", "Rendimiento A+", "Despliegue Automatizado"],
         link: "https://v0-lordperrout-advocacia.vercel.app/",
       },
@@ -947,7 +947,7 @@ export const translations: Record<Language, Content> = {
           "Consolidé patrones de internacionalización con múltiples idiomas, componentización reutilizable y microinteracciones que elevan la percepción de calidad.",
         impact:
           "Presencia digital profesional de mi propia empresa, que refuerza la autoridad técnica y sirve como escaparate práctico de mis competencias como desarrollador.",
-        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Vercel"],
+        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Lucide React"],
         highlights: ["Proyecto Propio", "Tres Idiomas", "Empresa Propia", "Diseño Premium"],
         link: "https://eliastechnology.vercel.app/",
       },
@@ -967,7 +967,7 @@ export const translations: Record<Language, Content> = {
           "Experiencia práctica con un cliente internacional real, atendiendo necesidades de negocio, estructuración de presencia digital y desarrollo orientado a objetivos empresariales.",
         impact:
           "Una solución publicada y accesible en línea que evidencia experiencia profesional con un cliente de Estados Unidos y fortalece mi posicionamiento como desarrollador en el mercado internacional.",
-        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Vercel"],
+        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Lucide React"],
         highlights: ["Cliente Internacional", "Estados Unidos", "Proyecto Profesional", "Diseño Responsivo"],
         link: "https://dv-premium.vercel.app/",
       },
