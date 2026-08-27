@@ -349,7 +349,7 @@ export const translations: Record<Language, Content> = {
           "Presença digital profissional da minha própria empresa, que reforça autoridade técnica e serve de vitrine prática das minhas competências como desenvolvedor.",
         tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Lucide React"],
         highlights: ["Projeto Autoral", "Três Idiomas", "Empresa Própria", "Design Premium"],
-        link: "https://eliastechnology.vercel.app/",
+        link: "https://v0-eliastechnology-etn.vercel.app/",
       },
       {
         name: "D&V Premium Services",
@@ -649,7 +649,7 @@ export const translations: Record<Language, Content> = {
           "A professional digital presence for my own company that reinforces technical authority and serves as a practical showcase of my skills as a developer.",
         tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Lucide React"],
         highlights: ["Authorial Project", "Three Languages", "Own Company", "Premium Design"],
-        link: "https://eliastechnology.vercel.app/",
+        link: "https://v0-eliastechnology-etn.vercel.app/",
       },
       {
         name: "D&V Premium Services",
@@ -949,7 +949,7 @@ export const translations: Record<Language, Content> = {
           "Presencia digital profesional de mi propia empresa, que refuerza la autoridad técnica y sirve como escaparate práctico de mis competencias como desarrollador.",
         tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Lucide React"],
         highlights: ["Proyecto Propio", "Tres Idiomas", "Empresa Propia", "Diseño Premium"],
-        link: "https://eliastechnology.vercel.app/",
+        link: "https://v0-eliastechnology-etn.vercel.app/",
       },
       {
         name: "D&V Premium Services",
