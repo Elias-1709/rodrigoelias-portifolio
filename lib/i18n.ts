@@ -371,6 +371,25 @@ export const translations: Record<Language, Content> = {
         highlights: ["Cliente Internacional", "Estados Unidos", "Projeto Profissional", "Design Responsivo"],
         link: "https://dv-premium.vercel.app/",
       },
+      {
+        name: "Brasa Sabor",
+        category: "Frontend",
+        description:
+          "Website para o Brasa Sabor, apresentando a identidade do negócio, seu cardápio e os principais canais de contato para os clientes.",
+        challenge:
+          "Criar uma presença digital atrativa e objetiva para facilitar o acesso às informações do restaurante e aproximar o público do negócio.",
+        solution:
+          "Desenvolvi uma experiência web responsiva com apresentação visual dos produtos, navegação simples e acesso direto ao site publicado.",
+        contribution:
+          "Implementei a interface frontend, organizei a hierarquia das informações e priorizei uma experiência clara em dispositivos móveis.",
+        learnings:
+          "Aprimorei a criação de interfaces para negócios de alimentação, com foco em apresentação visual e conversão de visitantes em clientes.",
+        impact:
+          "Presença digital acessível que ajuda o Brasa Sabor a divulgar seu negócio e facilita a descoberta de seus produtos pelos clientes.",
+        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+        highlights: ["Website Institucional", "Design Responsivo", "Negócio Local", "Experiência Mobile"],
+        link: "https://brasa-sabor.vercel.app/",
+      },
     ],
     experienceSection: {
       tag: "// Trajetória Profissional",
@@ -671,6 +690,25 @@ export const translations: Record<Language, Content> = {
         highlights: ["International Client", "United States", "Professional Project", "Responsive Design"],
         link: "https://dv-premium.vercel.app/",
       },
+      {
+        name: "Brasa Sabor",
+        category: "Frontend",
+        description:
+          "Website for Brasa Sabor, presenting the business identity, menu, and main contact channels for customers.",
+        challenge:
+          "Create an attractive and objective digital presence that makes restaurant information easy to access and brings the audience closer to the business.",
+        solution:
+          "I built a responsive web experience with visual product presentation, simple navigation, and direct access to the published website.",
+        contribution:
+          "I implemented the frontend interface, organized the information hierarchy, and prioritized a clear experience on mobile devices.",
+        learnings:
+          "I improved my ability to create interfaces for food businesses, focusing on visual presentation and converting visitors into customers.",
+        impact:
+          "An accessible digital presence that helps Brasa Sabor promote its business and makes it easier for customers to discover its products.",
+        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+        highlights: ["Institutional Website", "Responsive Design", "Local Business", "Mobile Experience"],
+        link: "https://brasa-sabor.vercel.app/",
+      },
     ],
     experienceSection: {
       tag: "// Professional Path",
@@ -970,6 +1008,25 @@ export const translations: Record<Language, Content> = {
         tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Lucide React"],
         highlights: ["Cliente Internacional", "Estados Unidos", "Proyecto Profesional", "Diseño Responsivo"],
         link: "https://dv-premium.vercel.app/",
+      },
+      {
+        name: "Brasa Sabor",
+        category: "Frontend",
+        description:
+          "Sitio web para Brasa Sabor, presentando la identidad del negocio, su menú y los principales canales de contacto para los clientes.",
+        challenge:
+          "Crear una presencia digital atractiva y objetiva para facilitar el acceso a la información del restaurante y acercar al público al negocio.",
+        solution:
+          "Desarrollé una experiencia web responsiva con presentación visual de los productos, navegación sencilla y acceso directo al sitio publicado.",
+        contribution:
+          "Implementé la interfaz frontend, organicé la jerarquía de la información y prioricé una experiencia clara en dispositivos móviles.",
+        learnings:
+          "Perfeccioné la creación de interfaces para negocios de alimentación, enfocándome en la presentación visual y la conversión de visitantes en clientes.",
+        impact:
+          "Una presencia digital accesible que ayuda a Brasa Sabor a promocionar su negocio y facilita que los clientes descubran sus productos.",
+        tech: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+        highlights: ["Sitio Institucional", "Diseño Responsivo", "Negocio Local", "Experiencia Mobile"],
+        link: "https://brasa-sabor.vercel.app/",
       },
     ],
     experienceSection: {
